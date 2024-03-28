@@ -19,13 +19,13 @@ To run the Python Quiz Game, follow these steps:
 
 1. Clone or download the repository to your local machine.
 2. Ensure you have Python installed on your machine (Latest version recommended).
-3. Navigate to the directory containing the `Quiz-game.py` file.
+3. Navigate to the directory containing the `Quiz.py` file.
 4. Open a terminal or command prompt and run the following command:
 5. Follow the on-screen instructions to play the game.
 
 ## Customization
 
-You can customize the quiz by modifying the `questions` list in the `quiz_game.py` file. Simply update the questions, options, and correct answers according to your preferences.
+You can customize the quiz by modifying the `questions` list in the `quiz.py` file. Simply update the questions, options, and correct answers according to your preferences.
 
 ## Contributing
 
